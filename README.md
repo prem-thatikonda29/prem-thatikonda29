@@ -1,4 +1,4 @@
-### YO YO
+### YO YO YO 🕶️
 # 💫 About Me:
 Currently learning Javascript<br>Passionate coder and musician<br>Turning coffee into cold since 2022<br>Maybe I'm Batman
 
