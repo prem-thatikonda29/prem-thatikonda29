@@ -1,3 +1,19 @@
+<style>
+/*     # 📊 GitHub Stats: */
+    @keyframes fadeIn {
+      from {
+        opacity: 0;
+      }
+      to {
+        opacity: 1;
+      }
+    }
+
+    #github-stats {
+      animation: fadeIn 1s ease-out;
+    }
+  </style>
+
 ### YO YO YO 🕶️
 # 💫 About Me:
 Currently learning Javascript<br>Passionate coder and musician<br>Turning coffee into cold since 2022<br>Maybe I'm Batman
@@ -12,10 +28,12 @@ Currently learning Javascript<br>Passionate coder and musician<br>Turning coffee
 # Profile Visits
 [![](https://visitcount.itsvg.in/api?id=prem-thatikonda29&icon=8&color=1)](https://visitcount.itsvg.in)
 
+<div id="github-stats">
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=prem-thatikonda29&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=prem-thatikonda29&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=prem-thatikonda29&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
