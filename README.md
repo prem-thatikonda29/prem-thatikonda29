@@ -1,3 +1,20 @@
+<style>
+  # 📊 GitHub Stats:
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+
+  #github-stats {
+    animation: fadeIn 1s ease-out;
+  }
+</style>
+
+
 ### YO YO YO 🕶️
 # 💫 About Me:
 Currently learning Javascript<br>Passionate coder and musician<br>Turning coffee into cold since 2022<br>Maybe I'm Batman
