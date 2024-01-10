@@ -12,7 +12,7 @@
 
 <h4 align="center">
 
-🧑🏻‍💻 I am Prem Thatikonda, Btech CSE student** at ITM Skills University
+🧑🏻‍💻 I am Prem Thatikonda, Btech CSE student at ITM Skills University
  
 🚀 Turning coffee to code since 2022
 
