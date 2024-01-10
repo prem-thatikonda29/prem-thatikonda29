@@ -3,7 +3,7 @@
   <h3>YO YO YO 🕶️</h3>
 
   <h1>💫 About Me:</h1>
-  <p>Currently learning Javascript<br>Passionate coder and musician<br>Turning coffee into cold since 2022<br>Maybe I'm Batman</p>
+  <p>Currently learning Javascript<br>Passionate coder 💻<br> Musician 🎸<br>Fitness Freak 💪🏼<br>Turning coffee☕️ into code since 2022<br>Maybe I'm Batman?</p>
 
   <h2>🌐 Socials:</h2>
   <p>
@@ -44,9 +44,9 @@
     <h1>📊 GitHub Stats:</h1>
     <p>
       <img src="https://github-readme-stats.vercel.app/api?username=prem-thatikonda29&theme=gotham&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
-      <br/>
+      <br/><br>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=prem-thatikonda29&theme=gotham&hide_border=false" alt="GitHub Streak Stats">
-      <br/>
+      <br/><br>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prem-thatikonda29&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
     </p>
   </div>
