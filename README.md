@@ -1,72 +1,30 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=YourUsername.YourUsername"/>
+### YO YO YO 🕶️
+# 💫 About Me:
+Currently learning Javascript<br>Passionate coder and musician<br>Turning coffee into cold since 2022<br>Maybe I'm Batman
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=👋 Hey there!; I'm Your Name!;" />
-</h1>
 
-<h3 align="center">Passionate computer science student exploring the fascinating world of coding 🚀</h3>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/14prem._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/premthatikonda29) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/premthatikonda) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/prem-thatikonda29) 
 
-<br/>
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-<img align="right" alt="GIF" src="Your-GIF-URL"/>
+# Profile Visits
+[![](https://visitcount.itsvg.in/api?id=prem-thatikonda29&icon=8&color=1)](https://visitcount.itsvg.in)
 
-<h4 align="center">
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=prem-thatikonda29&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=prem-thatikonda29&theme=gotham&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=prem-thatikonda29&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-🧑🏻‍💻 I am Prem Thatikonda, Btech CSE student at ITM Skills University
- 
-🚀 Turning coffee to code since 2022
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-🌱 I’m currently learning Javascript
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=prem-thatikonda29&limit=5&theme=algolia&combine_all_yearly_contributions=true)
 
-⚡ I am also interested in Music, Designing and Drawing
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
- </div>
-<img src="Your-Another-GIF-URL" height="20" width="100%">
 
-<div align="center">
-  <a href="[Your Instagram Link]" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="instagram logo"  />
-  </a>
-  <a href="[Your LinkedIn Link]" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="linkedin logo"  />
-  </a>
-  <a href="[Your Pinterest Link]" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Pinterest&logo=pinterest&label=&color=E60023&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="pinterest logo"  />
-  </a>
-  <!-- Add other social links similarly -->
-</div>
-
-<p align="center">
-  <a href="[Your Portfolio Link]">
-    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50" />
-    <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="60" height="60" />
-    <img src="https://techstack-generator.vercel.app/html-icon.svg" alt="HTML" width="50" height="50" />
-    <img src="https://techstack-generator.vercel.app/css-icon.svg" alt="CSS" width="50" height="50" />
-    <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="50" height="50" />
-    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" />
-  </a>
-</p>
-
-<div align="center">
-  <h2> My Contributions </h2>
-  <br>
-  <!-- Add your GitHub contributions graph here -->
-  <img src="https://github-readme-stats.vercel.app/api?username=prem-thatikonda29&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
-
-<!-- <img src="Your-Another-GIF-URL" height="40" width="100%"> -->
-<div align="center">
-  <!-- Add your GitHub activity graphs and other cards here -->
-</div>
-
-<div align="center">
-  <h2> Quote </h2>
-
-<div align="center">
-    
-</p>
-
-<!-- Add your daily quote section here -->
-
-</div>
-<img src="Your-Another-GIF-URL" height="20" width="100%">
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
