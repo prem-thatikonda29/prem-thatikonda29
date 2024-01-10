@@ -12,13 +12,13 @@
 
 <h4 align="center">
 
-🧑🏻‍💻 I am a **[Your Year] [Your Degree] student** at **[Your University]**
+🧑🏻‍💻 I am Prem Thatikonda, Btech CSE student** at ITM Skills University
  
-🚀 Coding enthusiast weaving a digital tapestry that harmonizes my diverse passions into innovative solutions
+🚀 Turning coffee to code since 2022
 
-🌱 I’m currently learning **[Your Current Learning Focus]**.
+🌱 I’m currently learning Javascript
 
-⚡ I am also interested in **[Your Interests]**.
+⚡ I am also interested in Music, Designing and Drawing
 
  </div>
 <img src="Your-Another-GIF-URL" height="20" width="100%">
