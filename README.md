@@ -36,7 +36,7 @@
   <h2>Profile Visits</h2>
   <p>
     <a href="https://visitcount.itsvg.in">
-        <img src="https://visitcount.itsvg.in/api?id=prem-thatikonda29&count=50000&label=Profile%20Views&color=1&icon=7&pretty=false" alt="Profile Visits">
+        <img src="https://visitcount.itsvg.in/api?id=prem-thatikonda29&label=Profile%20Views&color=6&icon=5&pretty=false" />
     </a>
   </p>
 
