@@ -1,7 +1,7 @@
 <body>
 
   <h1>💫 About Me:</h1>
-  <p>Currently learning Javascript<br>Passionate coder 💻<br> Musician 🎸<br>Fitness Freak 💪🏼<br>Turning coffee☕️ into code since 2022<br>Maybe I'm Batman?</p>
+  <p>Currently learning Javascript<br>Passionate coder 💻<br> Musician 🎸<br>Fitness Freak 💪🏼<br>Turning coffee☕️ into code since 2022<br></p>
 
   <h2>🌐 Socials:</h2>
   <p>
