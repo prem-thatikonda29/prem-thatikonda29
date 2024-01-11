@@ -34,9 +34,7 @@
   </p>
 
   <h2>Profile Visits</h2>
-    <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=prem-thatikonda29&count=5000&label=Profile%20Views&color=1&icon=7&pretty=false" alt="Profile Visits">
-</a>
+    <p align="left"> <img src="https://komarev.com/ghpvc/?username=prem-thatikonda29&label=Profile%20views&color=0e75b6&style=flat" alt="prem-thatikonda's profile visits" /> </p>
 
   <div id="github-stats">
     <h1>📊 GitHub Stats:</h1>
