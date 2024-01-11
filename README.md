@@ -19,7 +19,6 @@
     </a>
   </p>
 
-  <br>
   <h2>💻 What's in my bag?</h2>
   <p>
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
@@ -31,7 +30,6 @@
     <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" alt="Adobe Lightroom">
     <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva">
   </p>
-  <br>
   <h2>Profile Visits</h2>
     <p align="left"> <img src="https://komarev.com/ghpvc/?username=prem-thatikonda29&label=Profile%20views&color=0e75b6&style=flat" alt="prem-thatikonda's profile visits" /> </p>
 
