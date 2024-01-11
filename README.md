@@ -58,12 +58,6 @@
   <p>
     <img src="https://github-contributor-stats.vercel.app/api?username=prem-thatikonda29&limit=5&theme=algolia&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
   </p>
-
-  <h3>😂 Random Dev Meme</h3>
-  <img src="https://randommeme-five.vercel.app/" alt="Random Dev Meme" style="height: 400px;"/>
-
-  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 </body>
 
 </html>
