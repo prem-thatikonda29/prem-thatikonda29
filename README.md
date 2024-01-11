@@ -49,14 +49,14 @@
     </p>
   </div>
 
-  <h3>✍️ Random Dev Quote</h3>
-  <p>
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
-  </p>
-
   <h3>🔝 Top Contributed Repo</h3>
   <p>
     <img src="https://github-contributor-stats.vercel.app/api?username=prem-thatikonda29&limit=5&theme=algolia&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
+  </p>
+
+  <h3>✍️ Random Dev Quote</h3>
+  <p>
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
   </p>
 </body>
 
