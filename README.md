@@ -1,7 +1,5 @@
 <body>
 
-  <h3>YO YO YO 🕶️</h3>
-
   <h1>💫 About Me:</h1>
   <p>Currently learning Javascript<br>Passionate coder 💻<br> Musician 🎸<br>Fitness Freak 💪🏼<br>Turning coffee☕️ into code since 2022<br>Maybe I'm Batman?</p>
 
