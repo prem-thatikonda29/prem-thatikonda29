@@ -3,7 +3,7 @@
   <h1>💫 About Me:</h1>
   <p>Currently learning Javascript<br>Passionate coder 💻<br> Musician 🎸<br>Fitness Freak 💪🏼<br>Turning coffee☕️ into code since 2022<br></p>
 
-  <h2>🌐 Socials:</h2>
+  <h2>🌐 More of me:</h2>
   <p>
     <a href="https://instagram.com/14prem._">
       <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
@@ -19,7 +19,7 @@
     </a>
   </p>
 
-  <h1>💻 Tech Stack:</h1>
+  <h1>💻 What's in my bag?</h1>
   <p>
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
