@@ -11,12 +11,12 @@
     <a href="https://linkedin.com/in/premthatikonda29">
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    <a href="https://pinterest.com/premthatikonda">
+<!--     <a href="https://pinterest.com/premthatikonda">
       <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white" alt="Pinterest">
-    </a>
-    <a href="https://codepen.io/prem-thatikonda29">
+    </a> -->
+<!--     <a href="https://codepen.io/prem-thatikonda29">
       <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen">
-    </a>
+    </a> -->
   </p>
 
   <h1>💻 What's in my bag?</h1>
