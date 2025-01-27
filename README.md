@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prem-thatikonda29&label=Profile%20views&color=0e75b6&style=flat" alt="prem-thatikonda29" /> </p>
 
-- 👨‍💻 All of my projects are available at [m-thatikonda29.github.io/Personal-Portfolio](m-thatikonda29.github.io/Personal-Portfolio)
+- 👨‍💻 All of my projects are available at [prem-thatikonda29.github.io/Personal-Portfolio](https://prem-thatikonda29.github.io/Personal-Portfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
